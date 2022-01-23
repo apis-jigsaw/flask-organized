@@ -1,0 +1,4 @@
+flask
+simplejson
+sqlite3
+load_dotenv
